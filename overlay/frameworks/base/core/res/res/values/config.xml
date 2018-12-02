@@ -705,4 +705,6 @@
         <item>XTRA_SERVER_3=http://gllto2.glpals.com/7day/v5/latest/lto2.dat</item>
     </string-array>
 
+    <!-- Enable dual LTE capability support-->
+    <bool name="config_dual_LTE_capability">true</bool>
 </resources>
